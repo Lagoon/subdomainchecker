@@ -6,11 +6,17 @@
 
 # Ignore Play! working directory #
 db
-eclipse
 log
 logs
 precompiled
 tmp
 test-result
-eclipse
 server.pid
+dist/
+lib/play-subdomainchecker.jar
+
+#ignoring Eclipse stuff:
+eclipse
+.classpath
+.settings/
+.project

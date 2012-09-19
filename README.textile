@@ -1,0 +1,4 @@
+h1. SubdomainChecker
+
+The SubdomainChecker module help you to handle subdomains in a play application.
+
